@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/index.html",
-            "text": "Lookbea BigCommerce Theme Documentation\n\u00b6\n\n\nTheme Version: 1.0.0 (2018-10-01)\n\n\nTheme designed and developed by \nPapathemes\n \n\n\nDocumentation Contents\n\u00b6\n\n\n\n\nInstall the theme\n\n\nQuick Start Guide\n\n\nCustomization\n\n\nFAQs\n\n\nHelp & Support",
+            "text": "LightBulbs BigCommerce Theme Documentation\n\u00b6\n\n\nTheme Version: 1.0.0 (2018-10-01)\n\n\nTheme designed and developed by \nPapathemes\n \n\n\nDocumentation Contents\n\u00b6\n\n\n\n\nInstall the theme\n\n\nQuick Start Guide\n\n\nCustomization\n\n\nFAQs\n\n\nHelp & Support",
             "title": "Home"
         },
         {
-            "location": "/index.html#lookbea-bigcommerce-theme-documentation",
+            "location": "/index.html#lightbulbs-bigcommerce-theme-documentation",
             "text": "Theme Version: 1.0.0 (2018-10-01)  Theme designed and developed by  Papathemes",
-            "title": "Lookbea BigCommerce Theme Documentation"
+            "title": "LightBulbs BigCommerce Theme Documentation"
         },
         {
             "location": "/index.html#documentation-contents",
@@ -17,12 +17,12 @@
         },
         {
             "location": "/installation/index.html",
-            "text": "Theme Installation\n\u00b6\n\n\n\n\nLogin to your BigCommerce store's admin page. \n\n\nGo to \nStorefront Design\n > \nMy Themes\n. \n\n\nClick button \nUpload Theme\n. On the popup, click button \nSelect theme from your computer\n. \n\n\nChoose the zip file \nLookbea-x.x.x.zip\n to start installing the theme.\n\n\nWaiting for the uploading completed.\n\n\n\n\nWhen a new theme appears, click on the button \nApply Theme\n as showing below:\n\n\n\n\nThen choose a style you want to use.\n\n\nRefresh your store's front page you should see the theme installed successfully.",
+            "text": "Theme Installation\n\u00b6\n\n\n\n\nLogin to your BigCommerce store's admin page. \n\n\nGo to \nStorefront Design\n > \nMy Themes\n. \n\n\nClick button \nUpload Theme\n. On the popup, click button \nSelect theme from your computer\n. \n\n\nChoose the zip file \nlightbulbs-x.x.x.zip\n to start installing the theme.\n\n\nWaiting for the uploading completed.\n\n\n\n\nWhen a new theme appears, click on the button \nApply Theme\n as showing below:\n\n\n\n\nThen choose a style you want to use.\n\n\nRefresh your store's front page you should see the theme installed successfully.",
             "title": "Install the theme"
         },
         {
             "location": "/installation/index.html#theme-installation",
-            "text": "Login to your BigCommerce store's admin page.   Go to  Storefront Design  >  My Themes .   Click button  Upload Theme . On the popup, click button  Select theme from your computer .   Choose the zip file  Lookbea-x.x.x.zip  to start installing the theme.  Waiting for the uploading completed.   When a new theme appears, click on the button  Apply Theme  as showing below:   Then choose a style you want to use.  Refresh your store's front page you should see the theme installed successfully.",
+            "text": "Login to your BigCommerce store's admin page.   Go to  Storefront Design  >  My Themes .   Click button  Upload Theme . On the popup, click button  Select theme from your computer .   Choose the zip file  lightbulbs-x.x.x.zip  to start installing the theme.  Waiting for the uploading completed.   When a new theme appears, click on the button  Apply Theme  as showing below:   Then choose a style you want to use.  Refresh your store's front page you should see the theme installed successfully.",
             "title": "Theme Installation"
         },
         {
