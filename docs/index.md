@@ -1,4 +1,4 @@
-# Lookbea BigCommerce Theme Documentation
+# Lightbulbs BigCommerce Theme Documentation
 
 Theme Version: 1.0.0 (2018-10-01)
 

@@ -1407,15 +1407,15 @@ To display the images carousel, create a new banner in **Marketing** > **Banners
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<ul class="lookbea-brandsCarousel-slider" data-remote-brand-position="lookbea-brand-banner-homepage">
-<li class="lookbea-brandsCarousel-item"><a title="Brand 1" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand1.jpg" alt="Brand 1" /> </a></li>
-<li class="lookbea-brandsCarousel-item"><a title="Brand 2" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand2.jpg" alt="Brand 2" /> </a></li>
-<li class="lookbea-brandsCarousel-item"><a title="Brand 3" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand3.jpg" alt="Brand 3" /> </a></li>
-<li class="lookbea-brandsCarousel-item"><a title="Brand 4" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand4.jpg" alt="Brand 4" /> </a></li>
-<li class="lookbea-brandsCarousel-item"><a title="Brand 5" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand5.jpg" alt="Brand 5" /> </a></li>
-<li class="lookbea-brandsCarousel-item"><a title="Brand 6" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand6.jpg" alt="Brand 6" /> </a></li>
-<li class="lookbea-brandsCarousel-item"><a title="Brand 7" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand7.jpg" alt="Brand 7" /> </a></li>
-<li class="lookbea-brandsCarousel-item"><a title="Brand 8" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand8.jpg" alt="Brand 8" /> </a></li>
+<ul class="chiara-brandsCarousel-slider" data-remote-brand-position="chiara-brand-banner-homepage">
+<li class="chiara-brandsCarousel-item"><a title="Brand 1" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand1.jpg" alt="Brand 1" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="Brand 2" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand2.jpg" alt="Brand 2" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="Brand 3" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand3.jpg" alt="Brand 3" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="Brand 4" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand4.jpg" alt="Brand 4" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="Brand 5" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand5.jpg" alt="Brand 5" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="Brand 6" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand6.jpg" alt="Brand 6" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="Brand 7" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand7.jpg" alt="Brand 7" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="Brand 8" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand8.jpg" alt="Brand 8" /> </a></li>
 </ul>
 ```
 
@@ -1454,11 +1454,11 @@ Create a new banner in **Marketing** > **Banners**:
 
 #### Banner 1 on category pages
 
-* **Banner Name**: `Sidebar banner on category pages (lookbea-sidebar-category-banner1)`
+* **Banner Name**: `Sidebar banner on category pages (chiara-sidebar-category-banner1)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<div data-remote-banner-position="lookbea-sidebar-category-banner1"><img title="banner-sidebar.jpg" src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
+<div data-remote-banner-position="chiara-sidebar-category-banner1"><img title="banner-sidebar.jpg" src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
 <div class="sidebar-banner-content">
 <h4 class="sidebar-banner-title">beauty</h4>
 <h5 class="sidebar-banner-subtitle">from &pound;29.99</h5>
@@ -1478,11 +1478,11 @@ Or use button below to generate HTML code with your custom content:
 
 #### Banner 2 on category pages
 
-* **Banner Name**: `Sidebar banner on category pages (lookbea-sidebar-category-banner2)`
+* **Banner Name**: `Sidebar banner on category pages (chiara-sidebar-category-banner2)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<div data-remote-banner-position="lookbea-sidebar-category-banner2"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
+<div data-remote-banner-position="chiara-sidebar-category-banner2"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
 <div class="sidebar-banner-content">
 <h4 class="sidebar-banner-title">beauty</h4>
 <h5 class="sidebar-banner-subtitle">from &pound;29.99</h5>
@@ -1503,11 +1503,11 @@ Or use button below to generate HTML code with your custom content:
 
 #### Banner 1 on brand pages
 
-* **Banner Name**: `Sidebar banner on brand pages (lookbea-sidebar-brand-banner1)`
+* **Banner Name**: `Sidebar banner on brand pages (chiara-sidebar-brand-banner1)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<div data-remote-banner-position="lookbea-sidebar-brand-banner1"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
+<div data-remote-banner-position="chiara-sidebar-brand-banner1"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
 <div class="sidebar-banner-content">
 <h4 class="sidebar-banner-title">beauty</h4>
 <h5 class="sidebar-banner-subtitle">from &pound;29.99</h5>
@@ -1527,11 +1527,11 @@ Or use button below to generate HTML code with your custom content:
 
 #### Banner 2 on brand pages
 
-* **Banner Name**: `Sidebar banner on brand pages (lookbea-sidebar-brand-banner2)`
+* **Banner Name**: `Sidebar banner on brand pages (chiara-sidebar-brand-banner2)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<div data-remote-banner-position="lookbea-sidebar-brand-banner2"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
+<div data-remote-banner-position="chiara-sidebar-brand-banner2"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
 <div class="sidebar-banner-content">
 <h4 class="sidebar-banner-title">beauty</h4>
 <h5 class="sidebar-banner-subtitle">from &pound;29.99</h5>
